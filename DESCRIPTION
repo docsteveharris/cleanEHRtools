@@ -1,0 +1,16 @@
+Package: paper
+Title: Sepsis paper
+Version: 0.0.0.9000
+Authors@R: person("Steve", "Harris", email = "doc@steveharris.me", role = c("aut", "cre"))
+Description: Utilities and basic functions for writing paper
+Depends:
+    R (>= 3.3.0)
+Encoding: UTF-8
+License: GPL-3
+LazyData: true
+Imports:
+    assertthat,
+    data.table,
+    plyr
+Suggests:
+RoxygenNote: 5.0.1
